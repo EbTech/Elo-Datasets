@@ -1,0 +1,991 @@
+name,url,weight,time_seconds,num_contestants
+Codegate CTF Finals 2011,https://ctftime.org/event/20,1.0,1301679163,8
+Nuit du Hack CTF Quals 2011,https://ctftime.org/event/5,1.0,1301865200,83
+PlaidCTF 2011,https://ctftime.org/event/12,1.0,1303430400,152
+PHD CTF Finals 2011,https://ctftime.org/event/24,1.0,1305817200,10
+dCTF 2011,https://ctftime.org/event/28,1.0,1306557000,18
+DEF CON CTF Qualifier 2011,https://ctftime.org/event/1,1.0,1307127600,278
+DEF CON CTF 2011,https://ctftime.org/event/23,1.0,1312437600,12
+Hack.lu CTF 2011,https://ctftime.org/event/13,1.0,1316422800,106
+CSAW CTF Qualification Round 2011,https://ctftime.org/event/4,1.0,1316808000,204
+rwthCTF 2011,https://ctftime.org/event/3,1.0,1317402000,77
+ENOWARS 2011,https://ctftime.org/event/29,1.0,1317967200,14
+CSAW CTF Final Round 2011,https://ctftime.org/event/45,1.0,1320912000,12
+RuCTFE 2011,https://ctftime.org/event/15,1.0,1321714800,68
+UCSB iCTF 2011,https://ctftime.org/event/22,1.0,1322798400,64
+PHD CTF Quals 2011,https://ctftime.org/event/19,1.0,1323511200,72
+Ghost in the Shellcode 2012,https://ctftime.org/event/27,1.0,1325858400,94
+Mozilla CTF 2012,https://ctftime.org/event/7,1.0,1327525200,119
+ForbiddenBITS CTF 2012,https://ctftime.org/event/10,1.0,1328950800,235
+Codegate CTF Preliminary 2012,https://ctftime.org/event/9,1.0,1330084800,182
+RuCTF Quals 2012,https://ctftime.org/event/17,1.0,1331931600,59
+Nuit du Hack CTF Quals 2012,https://ctftime.org/event/6,1.0,1332630983,303
+Codegate CTF Finals 2012,https://ctftime.org/event/18,1.0,1333328400,8
+RuCTF 2012,https://ctftime.org/event/16,1.0,1334998800,11
+PlaidCTF 2012,https://ctftime.org/event/8,1.0,1335560400,243
+BaltCTF Quals 2012,https://ctftime.org/event/21,1.0,1337371200,41
+HITB CTF Amsterdam 2012,https://ctftime.org/event/14,1.0,1337853600,8
+PHD CTF Finals 2012,https://ctftime.org/event/11,1.0,1338379200,12
+DEF CON CTF Qualifier 2012,https://ctftime.org/event/2,1.0,1338595200,303
+SECUINSIDE CTF Quals 2012,https://ctftime.org/event/25,1.0,1339207200,30
+Nuit du Hack CTF Finals 2012,https://ctftime.org/event/34,1.0,1340431200,13
+SECUINSIDE CTF Finals 2012,https://ctftime.org/event/35,1.0,1341900000,8
+DEF CON CTF 2012,https://ctftime.org/event/26,1.0,1343368800,20
+BaltCTF 2012,https://ctftime.org/event/41,1.0,1345960800,7
+CSAW CTF Qualification Round 2012,https://ctftime.org/event/42,1.0,1348840800,633
+HitbSecConf CTF (Kuala Lumpur) 2012,https://ctftime.org/event/39,1.0,1349672400,10
+Hack.lu CTF 2012,https://ctftime.org/event/38,1.0,1350975600,260
+Hackfest 2012,https://ctftime.org/event/44,1.0,1351897200,28
+CSCAMP CTF Quals 2012,https://ctftime.org/event/53,1.0,1352440800,59
+CSAW CTF Final Round 2012,https://ctftime.org/event/43,1.0,1353002400,15
+PoliCTF 2012,https://ctftime.org/event/50,1.0,1353178800,93
+RuCTFE 2012,https://ctftime.org/event/49,1.0,1353769200,82
+rwthCTF 2012,https://ctftime.org/event/48,1.0,1354280400,76
+PHD CTF Quals 2012,https://ctftime.org/event/56,1.0,1355551200,154
+29c3 CTF,https://ctftime.org/event/57,1.0,1356615420,129
+ATAST CTF 2012,https://ctftime.org/event/51,1.0,1356768000,54
+HackIM 2013,https://ctftime.org/event/61,1.0,1359071940,321
+Ghost in the Shellcode 2013,https://ctftime.org/event/59,1.0,1360960200,123
+Codegate CTF Preliminary 2013,https://ctftime.org/event/62,1.0,1362139200,283
+RuCTF Quals 2013,https://ctftime.org/event/60,1.0,1362751200,173
+Nuit du Hack CTF Quals 2013,https://ctftime.org/event/70,1.0,1362783600,218
+backdoorCTF 2013,https://ctftime.org/event/72,1.0,1362843000,80
+ForbiddenBITS CTF 2013,https://ctftime.org/event/68,1.0,1363352400,167
+Insomni'hack 2013,https://ctftime.org/event/86,1.0,1363932000,13
+UCSB iCTF 2012,https://ctftime.org/event/65,1.0,1363964400,71
+easterpwn 2013,https://ctftime.org/event/76,1.0,1364673600,13
+Codegate CTF Finals 2013,https://ctftime.org/event/63,1.0,1364950800,11
+NorthSec CTF 2013,https://ctftime.org/event/46,1.0,1365202800,17
+HITB CTF Amsterdam 2013,https://ctftime.org/event/54,1.0,1365415200,10
+PlaidCTF 2013,https://ctftime.org/event/64,1.0,1366405200,415
+RuCTF 2013,https://ctftime.org/event/69,1.0,1366434000,15
+ASIS CTF Quals  2013,https://ctftime.org/event/84,1.0,1366435800,51
+VolgaCTF 2013 Quals,https://ctftime.org/event/75,1.0,1367431200,60
+BaltCTF Quals 2013,https://ctftime.org/event/88,1.0,1368187200,184
+h34dCTF 2013,https://ctftime.org/event/91,1.0,1369281600,28
+PHD CTF Finals 2013,https://ctftime.org/event/71,1.0,1369288800,10
+SECUINSIDE CTF Quals 2013,https://ctftime.org/event/89,1.0,1369400400,259
+EBCTF Teaser 2013,https://ctftime.org/event/85,1.0,1370088000,104
+Boston Key Party CTF 2013,https://ctftime.org/event/74,1.0,1370728800,112
+DEF CON CTF Qualifier 2013,https://ctftime.org/event/83,1.0,1371254400,414
+Nuit du Hack CTF Finals 2013,https://ctftime.org/event/98,1.0,1371934800,10
+SECUINSIDE CTF Finals 2013,https://ctftime.org/event/90,1.0,1372770000,8
+SIGINT CTF 2013,https://ctftime.org/event/95,1.0,1373040000,115
+DIMVA CTF 2013,https://ctftime.org/event/100,1.0,1374084000,59
+UFO CTF 2013,https://ctftime.org/event/99,1.0,1374242400,74
+EBCTF 2013,https://ctftime.org/event/73,1.0,1375437600,185
+DEF CON CTF 2013,https://ctftime.org/event/101,1.0,1375462800,20
+ASIS CTF Finals 2013,https://ctftime.org/event/92,1.0,1377783000,204
+CSAW CTF Qualification Round 2013,https://ctftime.org/event/96,1.0,1379628000,1380
+Sharif University CTF 2013,https://ctftime.org/event/103,1.0,1380709800,192
+Hack.lu CTF 2013,https://ctftime.org/event/97,1.0,1382428800,410
+No cON Name CTF Finals 2013,https://ctftime.org/event/110,1.0,1383296400,10
+rwthCTF 2013,https://ctftime.org/event/105,1.0,1383998400,65
+CSCAMP CTF Quals 2013,https://ctftime.org/event/115,1.0,1384372800,254
+CSAW CTF Final Round 2013,https://ctftime.org/event/102,1.0,1384480800,15
+UCSB iCTF 2013,https://ctftime.org/event/112,1.0,1386345600,123
+RuCTFE 2013,https://ctftime.org/event/114,1.0,1387015200,48
+OWASP ALGERIA CTF 2013,https://ctftime.org/event/125,1.0,1387738800,19
+30C3 CTF,https://ctftime.org/event/121,1.0,1388170800,118
+Ghost in the Shellcode Teaser 2014,https://ctftime.org/event/126,1.0,1388862000,5
+Break In 2014,https://ctftime.org/event/131,1.0,1389443400,126
+Ghost in the Shellcode 2014,https://ctftime.org/event/118,1.0,1389990600,300
+HackIM 2014,https://ctftime.org/event/135,1.0,1390588200,481
+PHD CTF Quals 2014,https://ctftime.org/event/116,1.0,1390636800,278
+Olympic CTF Sochi 2014,https://ctftime.org/event/130,1.0,1391789640,404
+RootedArena 2014,https://ctftime.org/event/138,1.0,1392998400,10
+Codegate CTF Preliminary 2014,https://ctftime.org/event/132,1.0,1393070400,283
+Boston Key Party CTF 2014,https://ctftime.org/event/120,1.0,1393606800,137
+RuCTF Quals 2014,https://ctftime.org/event/122,1.0,1394287200,249
+Insomni'hack 2014,https://ctftime.org/event/127,1.0,1395421200,16
+backdoorCTF 2014,https://ctftime.org/event/141,1.0,1395439200,221
+VolgaCTF 2014 Quals,https://ctftime.org/event/137,1.0,1396018800,131
+Codegate CTF Finals 2014,https://ctftime.org/event/133,1.0,1396414800,14
+Nuit du Hack CTF Quals 2014,https://ctftime.org/event/142,1.0,1396648800,240
+PlaidCTF 2014,https://ctftime.org/event/119,1.0,1397250000,867
+RuCTF 2014,https://ctftime.org/event/123,1.0,1397962800,15
+ASIS CTF Quals  2014,https://ctftime.org/event/136,1.0,1399559400,304
+DEF CON CTF Qualifier 2014,https://ctftime.org/event/129,1.0,1400284800,401
+PHD CTF Finals 2014,https://ctftime.org/event/146,1.0,1400644800,10
+HITB CTF Amsterdam 2014,https://ctftime.org/event/139,1.0,1401321600,18
+SECUINSIDE CTF Quals 2014,https://ctftime.org/event/143,1.0,1401516000,98
+Nuit du Hack CTF Finals 2014,https://ctftime.org/event/149,1.0,1403989200,9
+Pwnium CTF 2014,https://ctftime.org/event/150,1.0,1404500400,912
+SECUINSIDE CTF Finals 2014,https://ctftime.org/event/144,1.0,1404781200,10
+OpenCTF 2014,https://ctftime.org/event/151,1.0,1407434400,31
+DEF CON CTF 2014,https://ctftime.org/event/134,1.0,1407434400,20
+HITCON CTF 2014,https://ctftime.org/event/148,1.0,1408161600,499
+VolgaCTF 2014 Finals,https://ctftime.org/event/161,1.0,1410411600,12
+No cON Name CTF Quals 2014,https://ctftime.org/event/158,1.0,1410645600,224
+WaspNest CTF - AppSecUSA 2014,https://ctftime.org/event/153,1.0,1411052400,12
+CSAW CTF Qualification Round 2014,https://ctftime.org/event/152,1.0,1411164000,1173
+Sharif University CTF 2014,https://ctftime.org/event/159,1.0,1411727400,874
+MalCon 2014 Quals,https://ctftime.org/event/167,1.0,1412352000,9
+ASIS CTF Finals 2014,https://ctftime.org/event/147,1.0,1413009000,230
+Defcamp CTF Qualification 2014,https://ctftime.org/event/155,1.0,1413630000,468
+UConn CyberSEED 2014,https://ctftime.org/event/160,1.0,1413813600,20
+Hack.lu CTF 2014,https://ctftime.org/event/154,1.0,1413878400,395
+No cON Name CTF Finals 2014,https://ctftime.org/event/172,1.0,1414656000,3
+MalCon CTF 2014,https://ctftime.org/event/168,1.0,1414674000,4
+Hackfest 2014,https://ctftime.org/event/166,1.0,1415372400,26
+Hackfest 2013,https://ctftime.org/event/177,1.0,1415577600,37
+QIWI CTF 2014,https://ctftime.org/event/176,1.0,1415854800,43
+CSAW CTF Final Round 2014,https://ctftime.org/event/184,1.0,1416016800,15
+CSCAMP CTF Quals 2014,https://ctftime.org/event/179,1.0,1416477600,190
+Defcamp CTF Finals 2014,https://ctftime.org/event/182,1.0,1417165200,10
+CSCAMP CTF Finals 2014,https://ctftime.org/event/181,1.0,1417172400,3
+9447 Security Society CTF 2014,https://ctftime.org/event/170,1.0,1417258800,530
+SECCON CTF 2014 Online Qualifications,https://ctftime.org/event/183,1.0,1417824000,804
+Ghost in the Shellcode Teaser 2015,https://ctftime.org/event/164,1.0,1418500800,23
+RuCTFE 2014,https://ctftime.org/event/171,1.0,1419069600,133
+31C3 CTF,https://ctftime.org/event/180,1.0,1419710400,286
+HackIM 2015,https://ctftime.org/event/186,1.0,1420785000,377
+Insomni'hack teaser 2015,https://ctftime.org/event/173,1.0,1420880400,373
+Ghost in the Shellcode 2015,https://ctftime.org/event/165,1.0,1421440200,321
+WCTF  - th3jackers,https://ctftime.org/event/190,1.0,1422043200,64
+SECCON CTF 2014 Finals,https://ctftime.org/event/195,1.0,1423267200,24
+Hackfest CTF 2015,https://ctftime.org/event/193,1.0,1423296000,78
+Break In 2015,https://ctftime.org/event/199,1.0,1423938600,47
+Sharif University CTF Finals 2015,https://ctftime.org/event/189,1.0,1424142000,18
+Boston Key Party CTF 2015,https://ctftime.org/event/163,1.0,1425074400,822
+Codegate CTF Preliminary 2015,https://ctftime.org/event/201,1.0,1426334400,133
+B-Sides Vancouver 2015,https://ctftime.org/event/200,1.0,1426494600,417
+Insomni'hack 2015,https://ctftime.org/event/174,1.0,1426874400,56
+Securinets CTF Quals 2015,https://ctftime.org/event/211,1.0,1426878000,96
+BCTF 2015,https://ctftime.org/event/191,1.0,1426914000,583
+0CTF 2015 Quals,https://ctftime.org/event/198,1.0,1427500800,654
+BackdoorCTF 2015,https://ctftime.org/event/208,1.0,1427898600,449
+UIUCTF 2015,https://ctftime.org/event/192,1.0,1428030000,228
+Nuit du Hack CTF Quals 2015,https://ctftime.org/event/196,1.0,1428091200,219
+Hack Zone Tunisia 2015,https://ctftime.org/event/204,1.0,1428166800,70
+Codegate CTF Finals 2015,https://ctftime.org/event/214,1.0,1428382800,10
+UCSB iCTF 2014,https://ctftime.org/event/175,1.0,1428678000,88
+PlaidCTF 2015,https://ctftime.org/event/185,1.0,1429304400,894
+0CTF 2015 Finals,https://ctftime.org/event/215,1.0,1429920000,12
+Teaser CONFidence CTF 2015,https://ctftime.org/event/205,1.0,1429948800,160
+VolgaCTF 2015 Quals,https://ctftime.org/event/197,1.0,1430481600,250
+ASIS CTF Quals 2015,https://ctftime.org/event/188,1.0,1431149400,412
+DEF CON CTF Qualifier 2015,https://ctftime.org/event/212,1.0,1431734400,284
+NorthSec 2015,https://ctftime.org/event/324,1.0,1432323000,31
+CONFidence CTF 2015,https://ctftime.org/event/206,1.0,1432548000,11
+PHD CTF Finals 2015,https://ctftime.org/event/221,1.0,1432623600,9
+HITB CTF Amsterdam 2015,https://ctftime.org/event/203,1.0,1432796400,20
+PoliCTF 2015,https://ctftime.org/event/207,1.0,1436518800,325
+WhiteHat Contest 10,https://ctftime.org/event/226,1.0,1437789600,55
+DEF CON CTF 2015,https://ctftime.org/event/213,1.0,1438819200,15
+OpenCTF 2015,https://ctftime.org/event/225,1.0,1438963200,61
+Camp CTF 2015,https://ctftime.org/event/231,1.0,1439481600,124
+Inc0gnito CTF 2015,https://ctftime.org/event/237,1.0,1440234000,193
+MMA CTF 1st 2015,https://ctftime.org/event/234,1.0,1441411200,672
+VolgaCTF 2015 Finals,https://ctftime.org/event/232,1.0,1441864800,14
+CSAW CTF Qualification Round 2015,https://ctftime.org/event/227,1.0,1442613600,1364
+Trend Micro CTF Asia Pacific & Japan 2015 Online Qualifier,https://ctftime.org/event/230,1.0,1443240000,359
+Defcamp CTF Qualification 2015,https://ctftime.org/event/239,1.0,1443819600,378
+ASIS CTF Finals 2015,https://ctftime.org/event/223,1.0,1444458600,197
+Hackover CTF 2015,https://ctftime.org/event/249,1.0,1445018400,346
+HITCON CTF 2015 Quals,https://ctftime.org/event/245,1.0,1445047200,969
+Hack.lu CTF 2015,https://ctftime.org/event/244,1.0,1445328000,248
+EKOPARTY CTF 2015,https://ctftime.org/event/247,1.0,1445515200,794
+WhiteHat Grand Prix – Qualification Round 2015,https://ctftime.org/event/246,1.0,1445652000,108
+TUM CTF Teaser,https://ctftime.org/event/238,1.0,1445688000,443
+UConn CyberSEED 2015,https://ctftime.org/event/240,1.0,1446120000,25
+CyberSEED Social Engineering Competition 2015,https://ctftime.org/event/243,1.0,1446120000,14
+Belluminar 2015,https://ctftime.org/event/269,1.0,1446688800,3
+CSAW CTF Final Round 2015,https://ctftime.org/event/271,1.0,1447293600,15
+RCTF 2015 Quals,https://ctftime.org/event/266,1.0,1447459200,447
+Hack Dat Kiwi 2015,https://ctftime.org/event/260,1.0,1447822800,314
+Defcamp CTF Finals 2015,https://ctftime.org/event/270,1.0,1447938000,15
+GreHack CTF 2015,https://ctftime.org/event/251,1.0,1448053200,24
+Trend Micro CTF Asia Pacific & Japan 2015 Final,https://ctftime.org/event/257,1.0,1448080200,6
+RuCTFE 2015,https://ctftime.org/event/228,1.0,1448100000,140
+9447 Security Society CTF 2015,https://ctftime.org/event/242,1.0,1448665200,595
+UCSB iCTF 2015,https://ctftime.org/event/256,1.0,1449252000,35
+HITCON CTF 2015 Final,https://ctftime.org/event/273,1.0,1449280800,13
+SECCON 2015 Online CTF,https://ctftime.org/event/274,1.0,1449295200,869
+No cON Name CTF Finals 2015,https://ctftime.org/event/277,1.0,1449738000,8
+RCTF 2015 Finals,https://ctftime.org/event/267,1.0,1449882000,12
+FAUST CTF 2015,https://ctftime.org/event/235,1.0,1450454400,62
+WhiteHat Grand Prix – Final Round 2015,https://ctftime.org/event/255,1.0,1450490400,10
+32C3 CTF,https://ctftime.org/event/278,1.0,1451246400,389
+Insomni'hack teaser 2016,https://ctftime.org/event/258,1.0,1452934800,245
+Break In 2016,https://ctftime.org/event/288,1.0,1453573800,147
+HackIM 2016,https://ctftime.org/event/285,1.0,1454081400,535
+SECCON 2015 Final competition (Intercollege) ,https://ctftime.org/event/286,1.0,1454122800,18
+SECCON 2015 Final competition (International) ,https://ctftime.org/event/287,1.0,1454205600,18
+Sharif University CTF 2016,https://ctftime.org/event/280,1.0,1454653800,447
+Internetwache CTF 2016,https://ctftime.org/event/290,1.0,1455966000,647
+SSCTF 2016 Quals,https://ctftime.org/event/282,1.0,1456531200,517
+Boston Key Party CTF 2016,https://ctftime.org/event/252,1.0,1457128801,764
+Sécu'RT 2016,https://ctftime.org/event/291,1.0,1457616600,7
+0CTF 2016 Quals,https://ctftime.org/event/262,1.0,1457740800,874
+Sunshine CTF 2016,https://ctftime.org/event/297,1.0,1457798400,281
+Codegate CTF 2016 Quals,https://ctftime.org/event/299,1.0,1457816400,99
+Insomni'hack 2016,https://ctftime.org/event/283,1.0,1458334800,62
+BCTF 2016,https://ctftime.org/event/264,1.0,1458352800,573
+VolgaCTF 2016 Quals,https://ctftime.org/event/279,1.0,1458918000,198
+Pwn2Win CTF 2016,https://ctftime.org/event/281,1.0,1458923820,521
+Securinets CTF Quals 2016,https://ctftime.org/event/306,1.0,1459022400,77
+C4CTF 2016,https://ctftime.org/event/302,1.0,1459144800,19
+Nuit du Hack CTF Quals 2016,https://ctftime.org/event/284,1.0,1459547999,447
+sCTF 2016 Q1,https://ctftime.org/event/309,1.0,1460073600,610
+Sthack 2016,https://ctftime.org/event/292,1.0,1460149200,27
+RuCTF Finals 2016,https://ctftime.org/event/253,1.0,1460624400,21
+Teaser CONFidence CTF 2016,https://ctftime.org/event/307,1.0,1460649600,44
+PlaidCTF 2016,https://ctftime.org/event/315,1.0,1460754000,812
+Blaze CTF 2016,https://ctftime.org/event/276,1.0,1461126000,389
+0CTF 2016 Finals,https://ctftime.org/event/263,1.0,1461362400,12
+Google Capture The Flag 2016,https://ctftime.org/event/303,1.0,1461949200,903
+Codegate CTF Finals 2016,https://ctftime.org/event/317,1.0,1462191637,9
+ASIS CTF Quals 2016,https://ctftime.org/event/275,1.0,1462591800,537
+RCC-2016,https://ctftime.org/event/298,1.0,1462950000,9
+TU CTF 2016,https://ctftime.org/event/312,1.0,1463176800,433
+Moroccan Cyber Security Camp 2016,https://ctftime.org/event/351,1.0,1463212800,22
+CONFidence CTF 2016,https://ctftime.org/event/308,1.0,1463644800,22
+NorthSec 2016,https://ctftime.org/event/310,1.0,1463785200,39
+DEF CON CTF Qualifier 2016,https://ctftime.org/event/320,1.0,1463788800,276
+HITB CTF Amsterdam 2016,https://ctftime.org/event/325,1.0,1464256800,20
+Belluminar 2016,https://ctftime.org/event/321,1.0,1464757200,10
+Security Fest 2016,https://ctftime.org/event/326,1.0,1464775200,147
+ALICTF 2016,https://ctftime.org/event/322,1.0,1464998400,336
+BackdoorCTF 2016,https://ctftime.org/event/314,1.0,1465054200,214
+WhiteHat Contest 11,https://ctftime.org/event/329,1.0,1466820000,58
+AltayCTF-2016,https://ctftime.org/event/316,1.0,1466899200,11
+IBST.PSU CTF 2016,https://ctftime.org/event/334,1.0,1466922600,7
+Nuit du Hack CTF Finals 2016,https://ctftime.org/event/332,1.0,1467487800,10
+SECUINSIDE CTF Quals 2016,https://ctftime.org/event/335,1.0,1468033200,393
+Trend Micro CTF 2016 Online Qualifier,https://ctftime.org/event/340,1.0,1469851200,281
+OpenCTF 2016,https://ctftime.org/event/343,1.0,1470416400,131
+DEF CON CTF 2016,https://ctftime.org/event/344,1.0,1470420000,15
+IceCTF 2016,https://ctftime.org/event/319,1.0,1471017600,1671
+Hackcon 2016,https://ctftime.org/event/341,1.0,1471617000,678
+CyberSecurityRumble CTF 2016,https://ctftime.org/event/350,1.0,1471723680,150
+CTF(x) 2016,https://ctftime.org/event/348,1.0,1472241600,491
+Tokyo Westerns/MMA CTF 2nd 2016,https://ctftime.org/event/336,1.0,1472860800,835
+ASIS CTF Finals 2016,https://ctftime.org/event/327,1.0,1473440400,342
+WhiteHat Contest 12,https://ctftime.org/event/357,1.0,1473472800,80
+VolgaCTF 2016 Finals,https://ctftime.org/event/328,1.0,1473919200,16
+CSAW CTF Qualification Round 2016,https://ctftime.org/event/347,1.0,1474066800,1271
+M*CTF 2016 Quals,https://ctftime.org/event/368,1.0,1474642800,56
+H4ckIT CTF 2016 Online,https://ctftime.org/event/360,1.0,1474653600,459
+DefCamp CTF Qualification 2016,https://ctftime.org/event/356,1.0,1474700400,116
+SibirCTF 2016,https://ctftime.org/event/362,1.0,1475118000,11
+TUM CTF 2016,https://ctftime.org/event/331,1.0,1475251200,435
+Hackover CTF 2016,https://ctftime.org/event/339,1.0,1475863200,175
+HITCON CTF 2016 Quals,https://ctftime.org/event/355,1.0,1475892000,732
+SpbCTF 2016,https://ctftime.org/event/375,1.0,1475996400,7
+CyberSEED Social Engineering Competition 2016,https://ctftime.org/event/365,1.0,1476104400,16
+UConn CyberSEED 2016,https://ctftime.org/event/371,1.0,1476122400,23
+Hack.lu CTF 2016,https://ctftime.org/event/380,1.0,1476871200,220
+ECTF 2016,https://ctftime.org/event/386,1.0,1477188000,20
+EKOPARTY CTF 2016,https://ctftime.org/event/342,1.0,1477512000,720
+Hack The Vote 2016,https://ctftime.org/event/345,1.0,1478300400,1028
+School CTF 2016,https://ctftime.org/event/384,1.0,1478408400,168
+Moscow CTF School 2016,https://ctftime.org/event/388,1.0,1478430000,54
+DefCamp CTF Finals 2016,https://ctftime.org/event/393,1.0,1478775600,16
+CSAW CTF Final Round 2016,https://ctftime.org/event/396,1.0,1478815200,15
+RuCTFE 2016,https://ctftime.org/event/358,1.0,1478944800,130
+Qiwi-Infosec CTF-2016,https://ctftime.org/event/385,1.0,1479366000,224
+Trend Micro CTF 2016 The Final,https://ctftime.org/event/399,1.0,1479482040,10
+GreHack CTF 2016,https://ctftime.org/event/301,1.0,1479499200,33
+RC3 CTF 2016,https://ctftime.org/event/389,1.0,1479520800,661
+Juniors CTF 2016,https://ctftime.org/event/391,1.0,1480086000,310
+HITCON CTF 2016 Final,https://ctftime.org/event/400,1.0,1480644000,13
+SECCON 2016 Online CTF,https://ctftime.org/event/354,1.0,1481349600,929
+SharifCTF 7,https://ctftime.org/event/370,1.0,1481898600,700
+WhiteHat Grand Prix 2016,https://ctftime.org/event/398,1.0,1481940000,111
+"The 318br, DESEC, and SucuriHC Capture The Flag (3DSCTF)",https://ctftime.org/event/407,1.0,1481947200,535
+33C3 CTF,https://ctftime.org/event/404,1.0,1482868800,277
+Insomni'hack teaser 2017,https://ctftime.org/event/382,1.0,1484989200,339
+SECCON 2016 Final competition ,https://ctftime.org/event/401,1.0,1485568800,24
+AlexCTF,https://ctftime.org/event/408,1.0,1486116000,1021
+BITSCTF 2017,https://ctftime.org/event/417,1.0,1486207800,275
+Codegate 2017 prequals,https://ctftime.org/event/405,1.0,1486684800,471
+nullcon HackIM  ,https://ctftime.org/event/421,1.0,1486744200,362
+Hackcon Mini,https://ctftime.org/event/424,1.0,1486823400,110
+BSides San Francisco CTF,https://ctftime.org/event/414,1.0,1486900800,531
+Game of Pwners,https://ctftime.org/event/406,1.0,1487354400,10
+CityF atBash 2017,https://ctftime.org/event/419,1.0,1487851200,14
+Boston Key Party CTF 2017,https://ctftime.org/event/394,1.0,1487984400,945
+WhiteHat Challenge 01,https://ctftime.org/event/429,1.0,1487988000,70
+VolgaCTF 2017 Teaser,https://ctftime.org/event/373,1.0,1488013200,80
+Xiomara CTF 2017,https://ctftime.org/event/430,1.0,1488033000,333
+Pragyan CTF 2017,https://ctftime.org/event/420,1.0,1488439800,525
+UCSB iCTF 2017,https://ctftime.org/event/367,1.0,1488560400,314
+THC CTF 2017,https://ctftime.org/event/415,1.0,1488567600,15
+EasyCTF 2017,https://ctftime.org/event/441,1.0,1489431600,1938
+0CTF 2017 Quals,https://ctftime.org/event/402,1.0,1489795200,906
+MITCTF 2017,https://ctftime.org/event/409,1.0,1489845600,36
+VolgaCTF 2017 Quals,https://ctftime.org/event/374,1.0,1490367600,675
+Insomni'hack 2017,https://ctftime.org/event/383,1.0,1490374800,68
+WhiteHat Challenge 02,https://ctftime.org/event/447,1.0,1490432400,81
+DoubleS1405 CTF,https://ctftime.org/event/446,1.0,1490432400,5
+Securinets CTF Quals 2017,https://ctftime.org/event/448,1.0,1490461200,78
+April Fools' GTF 2017,https://ctftime.org/event/440,1.0,1490994000,233
+Nuit du Hack CTF Quals 2017,https://ctftime.org/event/410,1.0,1490997599,377
+Teaser CONFidence CTF 2017,https://ctftime.org/event/433,1.0,1491085800,258
+INS'hAck 2017,https://ctftime.org/event/444,1.0,1491496200,363
+ASIS CTF Quals 2017,https://ctftime.org/event/364,1.0,1491568200,447
+Sunshine CTF 2017,https://ctftime.org/event/449,1.0,1491595200,204
+FIT-HACK CTF 2017,https://ctftime.org/event/451,1.0,1491624000,514
+Codegate CTF Finals 2017,https://ctftime.org/event/460,1.0,1491904800,14
+TAMUctf 2017,https://ctftime.org/event/461,1.0,1492012800,706
+HITB CTF Amsterdam 2017,https://ctftime.org/event/381,1.0,1492034400,23
+RuCTF Finals 2017,https://ctftime.org/event/413,1.0,1492077600,23
+BCTF 2017,https://ctftime.org/event/432,1.0,1492221600,300
+Insigne CTF,https://ctftime.org/event/462,1.0,1492801200,305
+PlaidCTF 2017,https://ctftime.org/event/439,1.0,1492808400,550
+YUBITSEC CTF 2017,https://ctftime.org/event/464,1.0,1492887600,85
+DEF CON CTF Qualifier 2017,https://ctftime.org/event/459,1.0,1493424000,368
+UIUCTF 2017,https://ctftime.org/event/453,1.0,1493424000,162
+PHDays VII CTF,https://ctftime.org/event/469,1.0,1494604800,52
+Moroccan Cyber Security Camp 2017,https://ctftime.org/event/353,1.0,1494662400,3
+RCC-2017,https://ctftime.org/event/454,1.0,1494662400,9
+CONFidence CTF 2017,https://ctftime.org/event/434,1.0,1495090800,22
+RCTF 2017,https://ctftime.org/event/450,1.0,1495238400,619
+FAUST CTF 2017,https://ctftime.org/event/428,1.0,1495803600,50
+WhiteHat Contest 13,https://ctftime.org/event/468,1.0,1495850400,108
+Security Fest 2017,https://ctftime.org/event/467,1.0,1496232000,445
+0CTF 2017 Finals,https://ctftime.org/event/466,1.0,1496390400,12
+SHA2017 CTF Teaser round,https://ctftime.org/event/479,1.0,1497096000,94
+Google Capture The Flag 2017 (Quals),https://ctftime.org/event/455,1.0,1497657600,1971
+Trend Micro CTF 2017 - Raimund Genes Cup - Online Qualifier,https://ctftime.org/event/475,1.0,1498276800,294
+Nuit du Hack CTF Finals 2017,https://ctftime.org/event/411,1.0,1498332600,9
+SECUINSIDE CTF Quals 2017,https://ctftime.org/event/470,1.0,1498867200,543
+PoliCTF 2017,https://ctftime.org/event/425,1.0,1499418000,252
+MeePwn CTF 1st 2017,https://ctftime.org/event/486,1.0,1499990400,541
+CTFZone 2017,https://ctftime.org/event/476,1.0,1500109200,55
+DEF CON CTF 2017,https://ctftime.org/event/493,1.0,1501257600,15
+bugs_bunny ctf 2k17,https://ctftime.org/event/490,1.0,1501354800,417
+SHA2017 CTF,https://ctftime.org/event/478,1.0,1501927200,462
+RHme3 - Qualifiers,https://ctftime.org/event/501,1.0,1502103600,484
+HITB CTF Singapore 2017,https://ctftime.org/event/498,1.0,1503540000,184
+HackIT CTF 2017,https://ctftime.org/event/491,1.0,1503669600,333
+HackCon 2017,https://ctftime.org/event/481,1.0,1503694800,345
+WhiteHat Challenge 04,https://ctftime.org/event/496,1.0,1503712800,246
+Tokyo Westerns CTF 3rd 2017,https://ctftime.org/event/474,1.0,1504310400,901
+ASIS CTF Finals 2017,https://ctftime.org/event/457,1.0,1504890000,589
+Security Case Study CTF,https://ctftime.org/event/509,1.0,1505242800,15
+SEC-T CTF,https://ctftime.org/event/499,1.0,1505314800,547
+CSAW CTF Qualification Round 2017,https://ctftime.org/event/488,1.0,1505505600,1432
+EKOPARTY CTF 2017,https://ctftime.org/event/483,1.0,1505520000,183
+VolgaCTF 2017 Finals,https://ctftime.org/event/473,1.0,1505970000,17
+Codefest CTF 2017,https://ctftime.org/event/515,1.0,1506007800,276
+BackdoorCTF 2017,https://ctftime.org/event/504,1.0,1506180600,211
+DefCamp CTF Qualification 2017,https://ctftime.org/event/484,1.0,1506772800,471
+Square CTF 2017,https://ctftime.org/event/518,1.0,1507122000,801
+Kaspersky Industrial CTF Quals 2017,https://ctftime.org/event/519,1.0,1507298400,227
+Hack Dat Kiwi 2017,https://ctftime.org/event/516,1.0,1507867201,305
+Hack.lu CTF 2017,https://ctftime.org/event/525,1.0,1508234400,241
+UConn CyberSEED 2017,https://ctftime.org/event/494,1.0,1508407200,23
+CyberSEED Social Engineering Competition 2017,https://ctftime.org/event/503,1.0,1508418000,15
+Pwn2Win CTF 2017,https://ctftime.org/event/427,1.0,1508513820,206
+eCrimeCTF2017,https://ctftime.org/event/532,1.0,1508839200,11
+STMCTF 2017,https://ctftime.org/event/530,1.0,1508999400,29
+WhiteHat Challenge 05,https://ctftime.org/event/528,1.0,1509156000,61
+Google Capture The Flag 2017 (Finals),https://ctftime.org/event/506,1.0,1509181200,10
+HITCON CTF 2017 Quals,https://ctftime.org/event/485,1.0,1509760800,1071
+School CTF 2017,https://ctftime.org/event/492,1.0,1509861600,374
+InnoCTF 2017,https://ctftime.org/event/538,1.0,1509876600,18
+CODE BLUE CTF 2017,https://ctftime.org/event/505,1.0,1510189200,554
+DefCamp CTF Finals 2017,https://ctftime.org/event/541,1.0,1510228800,11
+CSAW CTF Final Round 2017,https://ctftime.org/event/527,1.0,1510279200,52
+HCTF 2017,https://ctftime.org/event/536,1.0,1510315200,532
+Trend Micro CTF 2017 - Raimund Genes Cup - The Final,https://ctftime.org/event/480,1.0,1510372800,11
+CTFZone 2017 Finals,https://ctftime.org/event/517,1.0,1510826400,10
+hxp CTF 2017,https://ctftime.org/event/489,1.0,1510920000,499
+GreHack CTF 2017,https://ctftime.org/event/426,1.0,1510952400,35
+RC3 CTF 2017,https://ctftime.org/event/529,1.0,1510970400,302
+TUCTF 2017,https://ctftime.org/event/500,1.0,1511564400,939
+ph0wn 2017,https://ctftime.org/event/521,1.0,1511974800,11
+Juniors CTF 2017,https://ctftime.org/event/537,1.0,1512144000,268
+RuCTFE 2017,https://ctftime.org/event/526,1.0,1512208800,150
+Takoma Park CTF,https://ctftime.org/event/535,1.0,1512234000,484
+HITCON CTF 2017 Final,https://ctftime.org/event/531,1.0,1512694800,14
+CTF Russian Cup 2017,https://ctftime.org/event/540,1.0,1512709200,16
+SECCON 2017 Online CTF,https://ctftime.org/event/512,1.0,1512799200,1028
+" The 318br, DESEC and SucuriHC Capture The Flag (3DSCTF)",https://ctftime.org/event/547,1.0,1513346399,434
+WhiteHat Grand Prix 2017,https://ctftime.org/event/543,1.0,1513389600,169
+InCTF 2017,https://ctftime.org/event/551,1.0,1513425600,156
+Carthage Cyber Arena,https://ctftime.org/event/546,1.0,1513666800,13
+PSUT CTF 2017,https://ctftime.org/event/555,1.0,1513917000,16
+34C3 CTF,https://ctftime.org/event/544,1.0,1514404800,187
+RHme3,https://ctftime.org/event/502,1.0,1516014000,486
+Insomni'hack teaser 2018,https://ctftime.org/event/545,1.0,1516442400,433
+Break In CTF 2018,https://ctftime.org/event/560,1.0,1516548600,97
+AceBear Security Contest 2018,https://ctftime.org/event/564,1.0,1517018400,139
+SharifCTF 8,https://ctftime.org/event/507,1.0,1517553000,681
+EvlzCTF,https://ctftime.org/event/570,1.0,1518190200,241
+nullcom HackIM 2018,https://ctftime.org/event/566,1.0,1518213600,248
+EasyCTF IV,https://ctftime.org/event/573,1.0,1518224400,2145
+Harekaze CTF 2018,https://ctftime.org/event/549,1.0,1518242400,447
+TAMUctf 18,https://ctftime.org/event/559,1.0,1518825600,1271
+SECCON 2017 Final Japan competition,https://ctftime.org/event/511,1.0,1518825600,24
+SECCON 2017 Final International competition,https://ctftime.org/event/510,1.0,1518912000,15
+Xiomara CTF 2018,https://ctftime.org/event/580,1.0,1519405200,240
+NeverLAN CTF 2018,https://ctftime.org/event/569,1.0,1519412400,816
+QCTF Starter 2018,https://ctftime.org/event/562,1.0,1519542000,307
+Pragyan CTF 2018,https://ctftime.org/event/581,1.0,1519975800,606
+THC CTF 2018,https://ctftime.org/event/561,1.0,1520625600,22
+N1CTF 2018,https://ctftime.org/event/584,1.0,1520643600,515
+UCSB iCTF 2018,https://ctftime.org/event/567,1.0,1521212400,265
+ångstromCTF 2018,https://ctftime.org/event/577,1.0,1521230400,1506
+b00t2root '18,https://ctftime.org/event/589,1.0,1521261000,133
+BackdoorCTF 2018,https://ctftime.org/event/585,1.0,1521300600,123
+VolgaCTF 2018 Quals,https://ctftime.org/event/539,1.0,1521817200,411
+Insomni'hack 2018,https://ctftime.org/event/565,1.0,1521828000,58
+Securinets CTF Quals 2018,https://ctftime.org/event/588,1.0,1521917940,216
+SwampCTF 2018,https://ctftime.org/event/590,1.0,1522360800,929
+Nuit du Hack CTF Quals 2018,https://ctftime.org/event/583,1.0,1522447198,489
+0CTF/TCTF 2018 Quals,https://ctftime.org/event/557,1.0,1522458000,699
+TyumenCTF 2018: NEON,https://ctftime.org/event/597,1.0,1522562400,108
+INS'hAck 2018,https://ctftime.org/event/592,1.0,1522945800,553
+Sunshine CTF 2018,https://ctftime.org/event/593,1.0,1522958400,779
+UIUCTF 2018,https://ctftime.org/event/587,1.0,1523059200,430
+Byte Bandits CTF 2018,https://ctftime.org/event/596,1.0,1523086200,174
+HITB-XCTF GSEC CTF 2018 Quals,https://ctftime.org/event/598,1.0,1523455200,343
+HITB CTF Amstedam 2018,https://ctftime.org/event/612,1.0,1523527200,23
+RuCTF Finals 2018,https://ctftime.org/event/574,1.0,1523556000,26
+WPICTF 2018,https://ctftime.org/event/600,1.0,1523646000,604
+Timisoara CTF 2018 Quals,https://ctftime.org/event/594,1.0,1523696400,440
+Midnight Sun CTF 2018 Quals,https://ctftime.org/event/595,1.0,1523700000,220
+Hack Zone Tunisia 2018,https://ctftime.org/event/613,1.0,1523736000,63
+Securinets CTF Finals 2018,https://ctftime.org/event/615,1.0,1523772000,5
+BSidesSF CTF 2018,https://ctftime.org/event/606,1.0,1523808000,140
+Blaze CTF 2018,https://ctftime.org/event/591,1.0,1524255600,165
+STEM CTF: Cyber Challenge 2018,https://ctftime.org/event/556,1.0,1524265200,229
+*CTF 2018,https://ctftime.org/event/614,1.0,1524272400,146
+NoNameCon CTF Quals 2018,https://ctftime.org/event/616,1.0,1524344400,130
+OmCTF-2018,https://ctftime.org/event/607,1.0,1524387600,17
+ASIS CTF Quals 2018,https://ctftime.org/event/568,1.0,1524938400,734
+PlaidCTF 2018,https://ctftime.org/event/617,1.0,1525492800,985
+DEF CON CTF Qualifier 2018,https://ctftime.org/event/608,1.0,1526083200,585
+NoNameCon CTF Final 2018,https://ctftime.org/event/621,1.0,1526554800,4
+NorthSec 2018,https://ctftime.org/event/628,1.0,1526668200,50
+RCTF 2018,https://ctftime.org/event/624,1.0,1526720400,399
+HSCTF 5,https://ctftime.org/event/634,1.0,1526752800,459
+0CTF/TCTF 2018 Finals,https://ctftime.org/event/558,1.0,1527210000,12
+Security Fest CTF,https://ctftime.org/event/622,1.0,1527760800,542
+FAUST CTF 2018,https://ctftime.org/event/554,1.0,1527858000,65
+CTF.Moscow 2018,https://ctftime.org/event/602,1.0,1527922800,11
+Timisoara CTF 2018 Finals,https://ctftime.org/event/627,1.0,1528534800,12
+Midnight Sun CTF 2018 Finals,https://ctftime.org/event/635,1.0,1529143200,14
+Google Capture The Flag 2018 (Quals),https://ctftime.org/event/623,1.0,1529712001,219
+Carthage Cyber Arena Finals,https://ctftime.org/event/579,1.0,1530199800,12
+Nuit du Hack CTF Finals 2018,https://ctftime.org/event/586,1.0,1530388800,9
+Meepwn CTF Quals 2018,https://ctftime.org/event/625,1.0,1531508400,743
+CTFZone 2018 Quals,https://ctftime.org/event/632,1.0,1532163600,631
+ISITDTU CTF 2018 Quals,https://ctftime.org/event/642,1.0,1532739600,320
+Real World CTF 2018 Quals,https://ctftime.org/event/645,1.0,1532743200,109
+CODE BLUE CTF 2018 Quals,https://ctftime.org/event/636,1.0,1532775600,542
+TJCTF 2018,https://ctftime.org/event/660,1.0,1533596400,1015
+DEF CON CTF 2018,https://ctftime.org/event/666,1.0,1533920400,24
+OpenCTF 2018,https://ctftime.org/event/667,1.0,1533920400,136
+Hackcon 2018,https://ctftime.org/event/652,1.0,1534357800,459
+WhiteHat Grand Prix 2018 – Quals,https://ctftime.org/event/656,1.0,1534557600,360
+Meepwn CTF Final 2018,https://ctftime.org/event/626,1.0,1535162400,10
+ICON CTF Quals,https://ctftime.org/event/675,1.0,1535445079,31
+Codefest CTF 2018,https://ctftime.org/event/677,1.0,1535738400,563
+TokyoWesterns CTF 4th 2018,https://ctftime.org/event/651,1.0,1535760000,810
+IceCTF 2018,https://ctftime.org/event/657,1.0,1536249600,1725
+noxCTF 2018,https://ctftime.org/event/671,1.0,1536253200,528
+HackIT CTF 2018,https://ctftime.org/event/672,1.0,1536393600,123
+ISITDTU CTF 2018 Final,https://ctftime.org/event/658,1.0,1536454800,12
+SEC-T CTF,https://ctftime.org/event/668,1.0,1536822000,462
+ICON CTF Finals,https://ctftime.org/event/676,1.0,1536919200,6
+CSAW CTF Qualification Round 2018,https://ctftime.org/event/633,1.0,1536955200,668
+Trend Micro CTF 2018 - Raimund Genes Cup - Online Qualifier,https://ctftime.org/event/659,1.0,1536984000,165
+IFIP SEC 2018 Capture-the-Flag,https://ctftime.org/event/644,1.0,1537167600,8
+VolgaCTF 2018 Final,https://ctftime.org/event/638,1.0,1537423200,17
+DefCamp CTF Qualification 2018,https://ctftime.org/event/654,1.0,1537606800,405
+picoCTF 2018,https://ctftime.org/event/681,1.0,1538136000,2888
+Teaser Dragon CTF 2018,https://ctftime.org/event/648,1.0,1538222400,233
+Hackover CTF 2018,https://ctftime.org/event/689,1.0,1538769600,201
+InCTF 2018,https://ctftime.org/event/662,1.0,1538823600,306
+HumanCTF,https://ctftime.org/event/674,1.0,1539392400,96
+Hack.lu CTF 2018,https://ctftime.org/event/699,1.0,1539684000,303
+HITCON CTF 2018,https://ctftime.org/event/669,1.0,1540000800,1166
+M*CTF 2018 Quals,https://ctftime.org/event/709,1.0,1540036800,41
+BSides Delhi CTF 2018,https://ctftime.org/event/700,1.0,1540447200,426
+MIEM CTF 2018 Quals,https://ctftime.org/event/717,1.0,1540512000,119
+P.W.N. CTF,https://ctftime.org/event/639,1.0,1540577880,255
+SECCON 2018 Online CTF,https://ctftime.org/event/683,1.0,1540620000,653
+Google Capture The Flag 2018 (Finals),https://ctftime.org/event/702,1.0,1540630800,10
+CODE BLUE CTF 2018 Finals,https://ctftime.org/event/670,1.0,1541034000,10
+WhiteHat Grand Prix 2018 - Final Round,https://ctftime.org/event/697,1.0,1541064600,10
+InnoCTF 2018 - quals,https://ctftime.org/event/704,1.0,1541235600,29
+CSAW CTF Final Round 2018,https://ctftime.org/event/696,1.0,1541642400,43
+DefCamp CTF Finals 2018,https://ctftime.org/event/698,1.0,1541667600,17
+Square CTF 2018,https://ctftime.org/event/695,1.0,1541703600,594
+HCTF 2018,https://ctftime.org/event/703,1.0,1541764800,296
+RuCTFE 2018,https://ctftime.org/event/687,1.0,1541844000,96
+M*CTF 2018 Final,https://ctftime.org/event/710,1.0,1541926800,10
+CTFZONE 2018 Finals,https://ctftime.org/event/665,1.0,1542268800,10
+RITSEC CTF 2018,https://ctftime.org/event/682,1.0,1542369600,950
+GreHack CTF 2018,https://ctftime.org/event/679,1.0,1542403800,29
+MIEM CTF 2018 Final,https://ctftime.org/event/715,1.0,1542438000,28
+Dragon CTF 2018,https://ctftime.org/event/649,1.0,1542618000,12
+Kaspersky Industrial CTF 2018,https://ctftime.org/event/701,1.0,1542981600,130
+TUCTF 2018,https://ctftime.org/event/650,1.0,1543010400,764
+ASIS CTF Finals 2018,https://ctftime.org/event/620,1.0,1543039200,182
+HITB-XCTF DUBAI CTF 2018,https://ctftime.org/event/720,1.0,1543298400,9
+BCTF 2018,https://ctftime.org/event/708,1.0,1543298400,318
+Pwn2Win CTF 2018,https://ctftime.org/event/664,1.0,1543592220,163
+Real World CTF 2018 Finals,https://ctftime.org/event/688,1.0,1543658400,15
+OverTheWire Advent Bonanza 2018,https://ctftime.org/event/721,1.0,1543665600,320
+OtterCTF,https://ctftime.org/event/711,1.0,1544097600,289
+hxp CTF 2018,https://ctftime.org/event/647,1.0,1544184000,297
+ph0wn 2018,https://ctftime.org/event/730,1.0,1544810400,20
+X-MAS CTF 2018,https://ctftime.org/event/724,1.0,1544810400,1375
+Trend Micro CTF 2018 - Raimund Genes Cup - The Final,https://ctftime.org/event/663,1.0,1544882400,13
+SECCON 2018 Final International competition,https://ctftime.org/event/684,1.0,1545444000,15
+SECCON 2018 Final Japan competition,https://ctftime.org/event/685,1.0,1545526800,14
+35C3 CTF,https://ctftime.org/event/718,1.0,1545940800,636
+Insomni'hack teaser 2019,https://ctftime.org/event/686,1.0,1547899200,236
+FireShell CTF 2019,https://ctftime.org/event/727,1.0,1548432000,570
+NeverLAN CTF 2019,https://ctftime.org/event/706,1.0,1548921600,1350
+nullcon HackIM 2019,https://ctftime.org/event/741,1.0,1549038600,174
+BITSCTF 2019,https://ctftime.org/event/745,1.0,1549054800,266
+Evlz CTF,https://ctftime.org/event/723,1.0,1549121400,176
+STEM CTF: Cyber Challenge 2019,https://ctftime.org/event/661,1.0,1550862000,708
+TAMUctf 19,https://ctftime.org/event/740,1.0,1550880000,1862
+BSidesSF 2019 CTF,https://ctftime.org/event/753,1.0,1551632400,686
+Aero CTF 2019,https://ctftime.org/event/772,1.0,1552035600,241
+Pragyan CTF 2019,https://ctftime.org/event/755,1.0,1552048200,498
+UTCTF 2019,https://ctftime.org/event/757,1.0,1552093200,581
+UCSB iCTF 2019,https://ctftime.org/event/747,1.0,1552669200,398
+CONFidence CTF 2019 Teaser,https://ctftime.org/event/760,1.0,1552734000,545
+Insomni'hack 2019,https://ctftime.org/event/744,1.0,1553274000,74
+0CTF/TCTF 2019 Quals,https://ctftime.org/event/736,1.0,1553320800,914
+Securinets CTF Quals 2019,https://ctftime.org/event/769,1.0,1553356800,435
+VolgaCTF 2019 Qualifier,https://ctftime.org/event/713,1.0,1553871600,414
+b00t2root '19,https://ctftime.org/event/780,1.0,1553880600,322
+Sunshine CTF 2019,https://ctftime.org/event/767,1.0,1553950800,464
+TyumenCTF 2019: Millennium,https://ctftime.org/event/764,1.0,1554012000,202
+ENCRYPT CTF,https://ctftime.org/event/771,1.0,1554181200,679
+RADARCTF,https://ctftime.org/event/787,1.0,1554307200,347
+Midnight Sun CTF 2019 Quals,https://ctftime.org/event/751,1.0,1554480000,432
+SwampCTF 2019,https://ctftime.org/event/779,1.0,1554501600,772
+TJCTF 2019,https://ctftime.org/event/726,1.0,1554505200,483
+AceBear Security Contest 2019,https://ctftime.org/event/748,1.0,1554508800,142
+SpamAndFlags Teaser 2019,https://ctftime.org/event/739,1.0,1554552061,176
+CBM CTF 2019,https://ctftime.org/event/783,1.0,1554575400,228
+Kaspersky Industrial CTF Finals,https://ctftime.org/event/791,1.0,1554773400,4
+Byte Bandits CTF 2019,https://ctftime.org/event/792,1.0,1555083000,319
+WPICTF 2019,https://ctftime.org/event/728,1.0,1555099200,584
+PlaidCTF 2019,https://ctftime.org/event/743,1.0,1555102800,953
+YauzaCTF 2019 Quals,https://ctftime.org/event/784,1.0,1555167600,194
+Hack Zone Tunisia 2019,https://ctftime.org/event/794,1.0,1555178400,113
+Securinets CTF Finals 2019,https://ctftime.org/event/793,1.0,1555232400,9
+MIEM Real CTF Quals,https://ctftime.org/event/765,1.0,1555275600,179
+ångstromCTF 2019,https://ctftime.org/event/774,1.0,1555718400,1373
+ASIS CTF Quals 2019,https://ctftime.org/event/732,1.0,1555740000,582
+Blaze CTF 2019,https://ctftime.org/event/790,1.0,1555791600,250
+UUT CTF,https://ctftime.org/event/773,1.0,1556199000,440
+RuCTF Finals 2019,https://ctftime.org/event/734,1.0,1556254800,28
+*CTF 2019,https://ctftime.org/event/778,1.0,1556326800,333
+OmCTF-2019,https://ctftime.org/event/738,1.0,1556355600,10
+BTH_CTF{sM3ll_th3_sH3ll},https://ctftime.org/event/761,1.0,1556380800,20
+INS'hAck 2019,https://ctftime.org/event/763,1.0,1556816400,765
+TSG CTF,https://ctftime.org/event/758,1.0,1556953200,410
+HITB CTF Amsterdam 2019,https://ctftime.org/event/797,1.0,1557388800,26
+DEF CON CTF Qualifier 2019,https://ctftime.org/event/762,1.0,1557532800,1261
+YauzaCTF 2019 Finals,https://ctftime.org/event/813,1.0,1557673200,16
+CTF 313 2019,https://ctftime.org/event/807,1.0,1557993600,255
+NorthSec 2019,https://ctftime.org/event/754,1.0,1558134000,73
+RCTF 2019,https://ctftime.org/event/812,1.0,1558141200,404
+Harekaze CTF 2019,https://ctftime.org/event/789,1.0,1558159200,523
+MIEM Real CTF Finals,https://ctftime.org/event/766,1.0,1558170000,17
+Security Fest 2019,https://ctftime.org/event/814,1.0,1558537200,465
+FAUST CTF 2019,https://ctftime.org/event/776,1.0,1558789200,53
+BCTF 2019 finals,https://ctftime.org/event/831,1.0,1559293200,13
+Facebook CTF 2019,https://ctftime.org/event/781,1.0,1559347200,1731
+HSCTF 6,https://ctftime.org/event/821,1.0,1559545200,1132
+CONFidence CTF 2019 Finals,https://ctftime.org/event/823,1.0,1559556000,22
+0CTF/TCTF 2019 Finals,https://ctftime.org/event/737,1.0,1559959200,12
+CTF.Moscow 2019,https://ctftime.org/event/795,1.0,1560150000,9
+Midnight Sun CTF 2019 Finals,https://ctftime.org/event/752,1.0,1560592800,14
+Google Capture The Flag 2019 (Quals),https://ctftime.org/event/809,1.0,1561161601,274
+ISITDTU CTF 2019 Quals,https://ctftime.org/event/803,1.0,1561773600,325
+WCTF 2019 ONLINE,https://ctftime.org/event/833,1.0,1562292000,51
+ENOWARS 3,https://ctftime.org/event/828,1.0,1562317200,31
+CInsects CTF 2019,https://ctftime.org/event/816,1.0,1562925600,41
+InnoCTF International 2019,https://ctftime.org/event/835,1.0,1563004801,205
+peaCTF 2019,https://ctftime.org/event/815,1.0,1563076800,446
+CyBRICS CTF Quals 2019,https://ctftime.org/event/836,1.0,1563616800,771
+ByteCTF,https://ctftime.org/event/845,1.0,1563647340,3
+De1CTF 2019,https://ctftime.org/event/843,1.0,1564794000,721
+OpenCTF 2019,https://ctftime.org/event/861,1.0,1565344800,229
+DEF CON CTF 2019,https://ctftime.org/event/856,1.0,1565370000,16
+ISITDTU CTF 2019 Finals,https://ctftime.org/event/804,1.0,1565402400,12
+Crypto CTF 2019,https://ctftime.org/event/806,1.0,1565416800,630
+redpwnCTF 2019,https://ctftime.org/event/834,1.0,1565625600,924
+Saudi CTF,https://ctftime.org/event/852,1.0,1565841536,242
+HackCon 2019,https://ctftime.org/event/827,1.0,1566487800,501
+Chaos Communication Camp 2019,https://ctftime.org/event/854,1.0,1566554400,358
+PASECA CTF 2019,https://ctftime.org/event/866,1.0,1566594000,192
+Codefest CTF 2019,https://ctftime.org/event/864,1.0,1566657000,319
+TokyoWesterns CTF 5th 2019,https://ctftime.org/event/808,1.0,1567209600,1003
+N1CTF 2019,https://ctftime.org/event/768,1.0,1567771200,852
+Affinity CTF 2019 - Quals,https://ctftime.org/event/867,1.0,1567792800,450
+Trend Micro CTF 2019 - Raimund Genes Cup - Online Qualifier,https://ctftime.org/event/846,1.0,1567828800,70
+DefCamp CTF Qualification 2019,https://ctftime.org/event/840,1.0,1567846800,303
+CSAW CTF Qualification Round 2019,https://ctftime.org/event/870,1.0,1568404800,1299
+Real World CTF 2019 Quals,https://ctftime.org/event/841,1.0,1568426400,575
+Newark Academy CTF 2019,https://ctftime.org/event/869,1.0,1568757600,1334
+SEC-T CTF 2019,https://ctftime.org/event/873,1.0,1568818800,282
+VolgaCTF 2019 Final,https://ctftime.org/event/796,1.0,1568872800,19
+InCTF 2019,https://ctftime.org/event/849,1.0,1569031200,432
+Teaser Dragon CTF 2019,https://ctftime.org/event/851,1.0,1569067200,297
+EKOPARTY CTF 2019,https://ctftime.org/event/892,1.0,1569430800,129
+Hardwear.io CTF Netherlands 2019,https://ctftime.org/event/882,1.0,1569492000,3
+picoCTF 2019,https://ctftime.org/event/914,1.0,1569585600,15794
+PwnThyBytes CTF 2019,https://ctftime.org/event/756,1.0,1569650400,454
+BSides Delhi CTF 2019,https://ctftime.org/event/885,1.0,1569670200,214
+CUCTF 2019,https://ctftime.org/event/897,1.0,1569679200,6
+CyBRICS CTF Finals 2019,https://ctftime.org/event/896,1.0,1569740400,21
+Aperi'CTF 2019,https://ctftime.org/event/921,1.0,1569801600,67
+CTF Open 2019 Semi-Final,https://ctftime.org/event/859,1.0,1570233600,3
+Balsn CTF 2019,https://ctftime.org/event/811,1.0,1570240800,728
+Layer7 CTF 2019,https://ctftime.org/event/895,1.0,1570352400,130
+Syskron Security CTF 2019,https://ctftime.org/event/901,1.0,1570572000,584
+Rooters CTF,https://ctftime.org/event/886,1.0,1570689000,450
+Square CTF 2019,https://ctftime.org/event/714,1.0,1570734000,223
+Reply Cyber Security Challenge,https://ctftime.org/event/888,1.0,1570822200,236
+HITCON CTF 2019 Quals,https://ctftime.org/event/848,1.0,1570845600,661
+CryptixCTF'19,https://ctftime.org/event/890,1.0,1570883400,275
+HITB PRO CTF 2019,https://ctftime.org/event/918,1.0,1571115600,19
+SECCON 2019 Online CTF,https://ctftime.org/event/799,1.0,1571464800,798
+Hack.lu CTF 2019,https://ctftime.org/event/830,1.0,1571738400,276
+TastelessCTF 2019,https://ctftime.org/event/872,1.0,1572091200,157
+BackdoorCTF 2019,https://ctftime.org/event/850,1.0,1572103800,128
+CODE BLUE CTF 2019,https://ctftime.org/event/916,1.0,1572343200,10
+Newbie CTF(N-CTF) 2019,https://ctftime.org/event/911,1.0,1572620400,561
+Google Capture The Flag 2019 (Finals),https://ctftime.org/event/844,1.0,1572681601,10
+CSAW CTF Final Round 2019,https://ctftime.org/event/927,1.0,1573066800,44
+Affinity CTF 2019 - Finals,https://ctftime.org/event/868,1.0,1573117200,4
+DefCamp CTF Finals 2019,https://ctftime.org/event/925,1.0,1573120800,16
+Pwn2Win CTF 2019,https://ctftime.org/event/822,1.0,1573231020,220
+Black Alps CTF 2019,https://ctftime.org/event/908,1.0,1573236900,21
+Dragon CTF 2019,https://ctftime.org/event/887,1.0,1573722000,14
+RITSEC CTF 2019,https://ctftime.org/event/898,1.0,1573837200,899
+ASIS CTF Finals 2019,https://ctftime.org/event/805,1.0,1573837200,356
+GreHack CTF 2019,https://ctftime.org/event/922,1.0,1573855200,32
+D^3CTF 2019,https://ctftime.org/event/930,1.0,1574424000,397
+RuCTFE 2019,https://ctftime.org/event/906,1.0,1574503200,187
+Trend Micro CTF 2019 - Raimund Genes Cup - The Final,https://ctftime.org/event/907,1.0,1574517600,13
+TUCTF 2019,https://ctftime.org/event/829,1.0,1575068400,1002
+CTFZone 2019 Quals,https://ctftime.org/event/894,1.0,1575104400,492
+m0leCon CTF 2019,https://ctftime.org/event/905,1.0,1575120600,18
+OverTheWire Advent Bonanza 2019,https://ctftime.org/event/891,1.0,1575201600,948
+Real World CTF 2019 Finals,https://ctftime.org/event/857,1.0,1575680400,12
+ph0wn 2019,https://ctftime.org/event/915,1.0,1576260000,35
+watevrCTF 2019,https://ctftime.org/event/893,1.0,1576263600,690
+X-MAS CTF 2019,https://ctftime.org/event/926,1.0,1576263600,1742
+HITCON CTF 2019 Final,https://ctftime.org/event/883,1.0,1576281600,14
+KipodAfterFree CTF 2019,https://ctftime.org/event/945,1.0,1576857600,625
+justCTF 2019,https://ctftime.org/event/943,1.0,1576872000,346
+UTC-CTF 2019 Teaser,https://ctftime.org/event/948,1.0,1576882800,241
+SECCON 2019 Final International competition,https://ctftime.org/event/801,1.0,1576893600,14
+SECCON 2019 Final Japan competition,https://ctftime.org/event/800,1.0,1576893600,15
+wtftime.org CTF,https://ctftime.org/event/949,1.0,1576926000,112
+Inferno CTF 2019,https://ctftime.org/event/951,1.0,1577442600,485
+BauCTF Winter 2019 Warmup,https://ctftime.org/event/998,1.0,1577462400,10
+hxp 36C3 CTF,https://ctftime.org/event/825,1.0,1577476800,320
+#kksctf open 2019,https://ctftime.org/event/874,1.0,1577516400,392
+BambooFox CTF,https://ctftime.org/event/953,1.0,1577786400,554
+TetCTF 2020,https://ctftime.org/event/955,1.0,1577811600,167
+WhiteHat Grand Prix 06 – Quals,https://ctftime.org/event/942,1.0,1578103200,149
+Insomni'hack teaser 2020,https://ctftime.org/event/959,1.0,1579338000,647
+riceteacatpanda,https://ctftime.org/event/910,1.0,1579492800,1322
+HackTM CTF Quals 2020,https://ctftime.org/event/956,1.0,1580544000,747
+RundergroundCTF #1,https://ctftime.org/event/968,1.0,1580641200,101
+nullcon HackIM 2020,https://ctftime.org/event/962,1.0,1581094800,1208
+Codegate CTF 2020 Preliminary,https://ctftime.org/event/938,1.0,1581152400,279
+NeverLAN CTF 2020,https://ctftime.org/event/971,1.0,1581174000,1157
+VeniVidiVici,https://ctftime.org/event/979,1.0,1581757200,124
+SarCTF by Saratov State University,https://ctftime.org/event/975,1.0,1581775200,418
+Capture The Flag - Incredia,https://ctftime.org/event/984,1.0,1581948000,3
+Pragyan CTF 2020,https://ctftime.org/event/991,1.0,1582374600,280
+DamCTF 2020 - Onsite,https://ctftime.org/event/1008,1.0,1582395900,16
+BSidesSF 2020 CTF,https://ctftime.org/event/977,1.0,1582477200,175
+Aero CTF 2020,https://ctftime.org/event/940,1.0,1582966800,271
+Phantom CTF,https://ctftime.org/event/1005,1.0,1583053200,7
+BauCTF Winter 2020 Quals ,https://ctftime.org/event/999,1.0,1583510400,53
+UCSB iCTF 2020,https://ctftime.org/event/899,1.0,1583517600,89
+UTCTF 2020,https://ctftime.org/event/929,1.0,1583539200,1001
+zer0pts CTF 2020,https://ctftime.org/event/1006,1.0,1583539200,432
+b01lers CTF,https://ctftime.org/event/974,1.0,1584144000,660
+ångstromCTF 2020,https://ctftime.org/event/982,1.0,1584144000,1594
+CONFidence CTF 2020 Teaser,https://ctftime.org/event/960,1.0,1584183600,354
+SuSeC CTF 2020,https://ctftime.org/event/1007,1.0,1584253800,285
+RundergroundCTF #1.1,https://ctftime.org/event/1015,1.0,1584270000,33
+TAMUctf 2020,https://ctftime.org/event/1009,1.0,1584664200,661
+riftCTF,https://ctftime.org/event/1019,1.0,1584685800,450
+saarCTF 2020,https://ctftime.org/event/980,1.0,1584799200,81
+Securinets CTF Quals 2020,https://ctftime.org/event/1016,1.0,1584810000,429
+FireShell CTF 2020,https://ctftime.org/event/944,1.0,1584824400,308
+VolgaCTF 2020 Qualifier,https://ctftime.org/event/933,1.0,1585321200,501
+X-MAS GTF 2020,https://ctftime.org/event/1023,1.0,1585699200,345
+AUCTF 2020,https://ctftime.org/event/1020,1.0,1585918800,1184
+Midnight Sun CTF 2020 Quals,https://ctftime.org/event/935,1.0,1585929600,524
+VirSecCon CTF,https://ctftime.org/event/1032,1.0,1585936800,1530
+Moscow CTF School 2020,https://ctftime.org/event/1002,1.0,1586080800,79
+TG:HACK 2020,https://ctftime.org/event/932,1.0,1586365200,1076
+DawgCTF,https://ctftime.org/event/1030,1.0,1586556000,1236
+Byte Bandits CTF 2020,https://ctftime.org/event/1022,1.0,1586619000,318
+Hexion CTF 2020 Online ,https://ctftime.org/event/1014,1.0,1586628000,428
+Hack Zone Tunisia 2020,https://ctftime.org/event/1029,1.0,1586631600,101
+STAY ~/ CTF 2020,https://ctftime.org/event/1024,1.0,1586685600,86
+HackPack CTF 2020,https://ctftime.org/event/1036,1.0,1587142800,418
+PlaidCTF 2020,https://ctftime.org/event/936,1.0,1587157200,1095
+WPICTF 2020,https://ctftime.org/event/913,1.0,1587157200,899
+UMDCTF 2020,https://ctftime.org/event/1040,1.0,1587204000,320
+Houseplant CTF 2020,https://ctftime.org/event/997,1.0,1587754800,1418
+CTFZone 2020 Finals,https://ctftime.org/event/967,1.0,1587816000,10
+IJCTF 2020,https://ctftime.org/event/1003,1.0,1587830400,144
+HITB LOCKDOWN CTF 2020,https://ctftime.org/event/1046,1.0,1587895200,23
+Covid-19 CTF,https://ctftime.org/event/1047,1.0,1588346100,403
+Tiger King CTF,https://ctftime.org/event/1048,1.0,1588346100,614
+De1CTF 2020,https://ctftime.org/event/1033,1.0,1588381200,753
+S㎩mAndFlags Uけimate w呎は屸de C㏊mᒆonship Teaser ꕫꕫ - ㎩㏚i㎄ Edition,https://ctftime.org/event/970,1.0,1588960800,530
+SharkyCTF,https://ctftime.org/event/1034,1.0,1588982460,828
+DEF CON CTF Qualifier 2020,https://ctftime.org/event/994,1.0,1589587200,1397
+NorthSec 2020,https://ctftime.org/event/954,1.0,1589630400,77
+TJCTF 2020,https://ctftime.org/event/928,1.0,1590105600,1205
+m0leCon CTF 2020 Teaser,https://ctftime.org/event/1025,1.0,1590174000,459
+Hack-A-Sat Qualifiers,https://ctftime.org/event/993,1.0,1590192000,1274
+Ugra CTF Quals 2020,https://ctftime.org/event/1054,1.0,1590217200,136
+Pwn2Win CTF 2020,https://ctftime.org/event/961,1.0,1590770220,401
+castorsCTF20,https://ctftime.org/event/1063,1.0,1590782400,500
+RCTF 2020,https://ctftime.org/event/1045,1.0,1590800400,460
+HSCTF 7,https://ctftime.org/event/939,1.0,1591012800,1464
+2020 Defenit CTF,https://ctftime.org/event/1060,1.0,1591347600,427
+Really Awesome CTF 2020,https://ctftime.org/event/1051,1.0,1591376400,1047
+BatPwn - BSides Ahmedabad CTF 2020,https://ctftime.org/event/1065,1.0,1591390800,264
+CyberHackCTF 2020,https://ctftime.org/event/1059,1.0,1591439400,314
+NoobCTF 0x1,https://ctftime.org/event/1064,1.0,1591698600,341
+NahamCon CTF,https://ctftime.org/event/1067,1.0,1591974000,2853
+WeCTF 2020,https://ctftime.org/event/1044,1.0,1592067600,257
+RundergroundCTF #1.2,https://ctftime.org/event/1069,1.0,1592132400,46
+Zh3r0 CTF,https://ctftime.org/event/1062,1.0,1592235000,807
+UUTCTF 2020,https://ctftime.org/event/1058,1.0,1592634600,358
+iHack 2020,https://ctftime.org/event/1074,1.0,1592688600,78
+redpwnCTF 2020,https://ctftime.org/event/995,1.0,1592769600,1491
+0CTF/TCTF 2020 Quals	,https://ctftime.org/event/1026,1.0,1593223200,852
+BSidesTLV 2020 CTF,https://ctftime.org/event/1078,1.0,1593334800,124
+CSCML CTF 2020,https://ctftime.org/event/1071,1.0,1593669600,230
+ASIS CTF Quals 2020,https://ctftime.org/event/964,1.0,1593788400,808
+SCTF-XCTF 2020,https://ctftime.org/event/1068,1.0,1593824400,50
+FAUST CTF 2020,https://ctftime.org/event/1000,1.0,1594386000,70
+Geekpwn x Tencent YDLAB Cloud Range Challenge 2020 Quals,https://ctftime.org/event/1083,1.0,1594432800,148
+TSG CTF 2020,https://ctftime.org/event/1004,1.0,1594450800,627
+Trace Labs Global OSINT Search Party CTF V,https://ctftime.org/event/1085,1.0,1594477800,190
+rgbCTF 2020,https://ctftime.org/event/1042,1.0,1594486800,1047
+CCTF 2020,https://ctftime.org/event/1087,1.0,1594771200,593
+UIUCTF 2020,https://ctftime.org/event/1075,1.0,1594965600,387
+Content Creators Club CTF,https://ctftime.org/event/1097,1.0,1594980000,268
+csictf 2020,https://ctftime.org/event/1081,1.0,1595010600,1000
+ENOWARS 4,https://ctftime.org/event/1043,1.0,1595073600,94
+3kCTF-2020,https://ctftime.org/event/1077,1.0,1595610000,491
+CyBRICS CTF 2020,https://ctftime.org/event/1012,1.0,1595671200,785
+HacktivityCon CTF,https://ctftime.org/event/1101,1.0,1596049200,1974
+InCTF 2020,https://ctftime.org/event/981,1.0,1596202200,556
+WMCTF 2020,https://ctftime.org/event/1094,1.0,1596272400,437
+Hack-A-Sat Finals,https://ctftime.org/event/1104,1.0,1596801600,8
+AppSecVillage (CTF)2 2020,https://ctftime.org/event/1110,1.0,1596816001,13
+DEF CON CTF 2020,https://ctftime.org/event/1088,1.0,1596819601,16
+UNICORN CTF 2020,https://ctftime.org/event/1103,1.0,1596880800,285
+PoseidonCTF 1st Edition,https://ctftime.org/event/1049,1.0,1596906000,333
+Arab Security Cyber Wargames,https://ctftime.org/event/1098,1.0,1597370400,94
+Arab Security Cyber Wargames 2020 Qualifications ,https://ctftime.org/event/1102,1.0,1597410000,94
+Crypto CTF 2020,https://ctftime.org/event/963,1.0,1597417200,549
+PhantomCTF 3.0,https://ctftime.org/event/1092,1.0,1597496400,146
+Hacker's Playground 2020,https://ctftime.org/event/1107,1.0,1597712400,672
+Google Capture The Flag 2020,https://ctftime.org/event/1041,1.0,1598054401,623
+ByteCTF 3,https://ctftime.org/event/1114,1.0,1598293800,155
+RESTCON CTF,https://ctftime.org/event/1116,1.0,1598589000,376
+GACTF,https://ctftime.org/event/1115,1.0,1598662800,518
+FwordCTF 2020,https://ctftime.org/event/1066,1.0,1598720400,360
+Codegate CTF 2020 Finals,https://ctftime.org/event/996,1.0,1599127200,10
+ALLES! CTF 2020,https://ctftime.org/event/1091,1.0,1599235200,463
+ CONFidence CTF 2020 Finals,https://ctftime.org/event/1090,1.0,1599300000,160
+RatCTF2020,https://ctftime.org/event/1105,1.0,1599325200,15
+COMPFEST CTF 2020,https://ctftime.org/event/1123,1.0,1599354000,249
+CSAW CTF Qualification Round 2020,https://ctftime.org/event/1079,1.0,1599854400,1209
+VolgaCTF 2020 Final,https://ctftime.org/event/1018,1.0,1600322400,23
+DownUnderCTF,https://ctftime.org/event/1084,1.0,1600419600,1079
+TokyoWesterns CTF 6th 2020,https://ctftime.org/event/1086,1.0,1600473600,648
+EKOPARTY CTF 2020,https://ctftime.org/event/1137,1.0,1600966800,387
+DarkCTF,https://ctftime.org/event/1118,1.0,1601002800,808
+HACON_CTF,https://ctftime.org/event/1132,1.0,1601008200,206
+Evlz CTF 3.0,https://ctftime.org/event/1070,1.0,1601047800,121
+BalCCon2k20 CTF,https://ctftime.org/event/1100,1.0,1601056800,193
+0CTF/TCTF 2020 Finals,https://ctftime.org/event/1093,1.0,1601085600,15
+RomHack CTF 2020,https://ctftime.org/event/1126,1.0,1601103600,43
+BsidesBOS CTF,https://ctftime.org/event/1125,1.0,1601125200,1006
+YPSI CTF,https://ctftime.org/event/1144,1.0,1601503200,15
+TastelessCTF 2020,https://ctftime.org/event/1124,1.0,1601683200,471
+Trend Micro CTF 2020 - Raimund Genes Cup - Online Qualifier,https://ctftime.org/event/1117,1.0,1601697600,67
+Midnight Sun CTF 2020 Finals,https://ctftime.org/event/934,1.0,1601719200,15
+M*CTF 2020 Quals,https://ctftime.org/event/1138,1.0,1601730000,88
+b01lers CTF bootcamp,https://ctftime.org/event/1089,1.0,1601730000,515
+Reply Cyber Security Challenge,https://ctftime.org/event/1131,1.0,1602264600,406
+DamCTF 2020,https://ctftime.org/event/1076,1.0,1602288000,700
+SECCON 2020 Online CTF,https://ctftime.org/event/1119,1.0,1602309600,579
+BSides Delhi CTF 2020,https://ctftime.org/event/1158,1.0,1602315000,130
+ISITDTU CTF 2020 Quals,https://ctftime.org/event/1127,1.0,1602327600,148
+e-Jornadas 2020,https://ctftime.org/event/1159,1.0,1602590400,209
+Hacktober CTF,https://ctftime.org/event/1108,1.0,1602856800,1063
+N1CTF 2020,https://ctftime.org/event/1099,1.0,1602892800,847
+mHackeCTF - Enterprise Edition,https://ctftime.org/event/1053,1.0,1602936000,55
+RundergroundCTF #2,https://ctftime.org/event/1163,1.0,1603018800,66
+Syskron Security CTF 2020,https://ctftime.org/event/1148,1.0,1603238400,1027
+Hack.lu CTF 2020,https://ctftime.org/event/1142,1.0,1603460220,301
+Hack The Vote 2020,https://ctftime.org/event/1017,1.0,1603494000,277
+MetaCTF CyberGames 2020,https://ctftime.org/event/1106,1.0,1603540800,994
+AppSec-IL 2020 CTF,https://ctftime.org/event/1152,1.0,1603558800,57
+RaziCTF 2020,https://ctftime.org/event/1167,1.0,1603690200,313
+Ledger Donjon CTF 2020,https://ctftime.org/event/1173,1.0,1603875600,426
+CyberSecurityRumble CTF,https://ctftime.org/event/1057,1.0,1604084400,472
+CyberYoddha CTF 2020,https://ctftime.org/event/1169,1.0,1604084400,680
+Newark Academy CTF 2020,https://ctftime.org/event/1157,1.0,1604095200,968
+Conquer the World by IEEE-VIT,https://ctftime.org/event/1164,1.0,1604131200,39
+KipodAfterFree CTF 2020,https://ctftime.org/event/1133,1.0,1604682000,622
+HK Cyber Security New Generation CTF Challenge 2020,https://ctftime.org/event/1145,1.0,1604685600,69
+CSAW CTF Final Round 2020,https://ctftime.org/event/1190,1.0,1604714400,51
+Sunshine CTF 2020,https://ctftime.org/event/992,1.0,1604757600,742
+FarEastCTF - 2020,https://ctftime.org/event/1180,1.0,1604764800,52
+Square CTF 2020,https://ctftime.org/event/1174,1.0,1605286800,610
+Decompetition,https://ctftime.org/event/1170,1.0,1605315600,114
+Balsn CTF 2020,https://ctftime.org/event/1122,1.0,1605319200,490
+Hack For Troops,https://ctftime.org/event/1147,1.0,1605330000,116
+m0leCon CTF 2020,https://ctftime.org/event/1135,1.0,1605384000,276
+SPbCTF's Student CTF 2020 Quals,https://ctftime.org/event/1188,1.0,1605430800,88
+HTB University CTF 2020 Quals,https://ctftime.org/event/1201,1.0,1605877200,186
+Hackfest CTF Pro 2020,https://ctftime.org/event/1192,1.0,1605902400,8
+Hackfest CTF Classic 2020,https://ctftime.org/event/1191,1.0,1605902400,80
+Dragon CTF 2020,https://ctftime.org/event/1082,1.0,1605906000,538
+Ugra CTF Finals 2020,https://ctftime.org/event/1187,1.0,1606201200,21
+Digital Forensics CTF,https://ctftime.org/event/1203,1.0,1606384800,3
+CTF InterIUT 2020,https://ctftime.org/event/1176,1.0,1606500000,87
+HITCON CTF 2020,https://ctftime.org/event/1136,1.0,1606528800,710
+SPbCTF's Student CTF 2020 Finals,https://ctftime.org/event/1189,1.0,1606640400,7
+CTF Metared UNLP.EDU.AR Stage,https://ctftime.org/event/1204,1.0,1606914000,51
+Cryptography CTF,https://ctftime.org/event/1205,1.0,1606989600,254
+CTF 313 2020,https://ctftime.org/event/1207,1.0,1607004000,138
+Shakti CTF,https://ctftime.org/event/1141,1.0,1607085000,277
+2020 December Metasploit community CTF,https://ctftime.org/event/1200,1.0,1607094000,413
+pbctf 2020,https://ctftime.org/event/1121,1.0,1607126400,457
+DefCamp CTF 2020 Online,https://ctftime.org/event/1182,1.0,1607158800,216
+boot2root 2020,https://ctftime.org/event/1202,1.0,1607247000,123
+ Weekend CTF(Scheduled to 18th Dec),https://ctftime.org/event/1211,1.0,1607684400,191
+ASIS CTF Finals 2020,https://ctftime.org/event/1111,1.0,1607698800,349
+X-MAS CTF 2020,https://ctftime.org/event/1209,1.0,1607713200,1064
+HackTM CTF Finals 2020,https://ctftime.org/event/1140,1.0,1607756400,10
+#kksctf open 2020,https://ctftime.org/event/1112,1.0,1607763600,229
+ISITDTU CTF 2020 Finals,https://ctftime.org/event/1210,1.0,1607821200,11
+BSides Algiers 2021 Quals,https://ctftime.org/event/1220,1.0,1608282000,169
+hxp CTF 2020,https://ctftime.org/event/1134,1.0,1608303600,532
+Trend Micro CTF 2020 - Raimund Genes Cup - Virtual Finals,https://ctftime.org/event/1212,1.0,1608354000,12
+M*CTF 2020 Final,https://ctftime.org/event/1165,1.0,1608361200,9
+VULNCON CTF 2020,https://ctftime.org/event/1149,1.0,1608373800,441
+WeCTF 2020+,https://ctftime.org/event/1072,1.0,1608408000,141
+RuCTFE 2020,https://ctftime.org/event/1178,1.0,1608976800,126
+Brixel CTF winter edition,https://ctftime.org/event/1194,1.0,1608984000,823
+WhiteHat Grand Prix 06 - Final Round,https://ctftime.org/event/1181,1.0,1609034400,10
+G̷a̷c̷h̷i̷ C̷T̷F̷ 2̷0̷2̷0̷,https://ctftime.org/event/1183,1.0,1609066800,99
+TetCTF 2021,https://ctftime.org/event/1213,1.0,1609459200,518
+Real World CTF 3rd,https://ctftime.org/event/1198,1.0,1610157600,270
+0xL4ughCTF,https://ctftime.org/event/1248,1.0,1610625600,371
+ISFCR Hackathon 2021,https://ctftime.org/event/1247,1.0,1610688600,104
+*CTF 2021,https://ctftime.org/event/1242,1.0,1610758800,519
+BambooFox CTF 2021,https://ctftime.org/event/1234,1.0,1610762400,513
+The Cyber Grabs CTF 0x02,https://ctftime.org/event/1232,1.0,1610857800,223
+0x41414141 CTF,https://ctftime.org/event/1249,1.0,1611421200,286
+justCTF [*] 2020,https://ctftime.org/event/1050,1.0,1611986400,797
+DiceCTF 2021,https://ctftime.org/event/1236,1.0,1612569600,1059
+TrollCAT CTF 2021,https://ctftime.org/event/1257,1.0,1612585800,355
+Cohesion 2021,https://ctftime.org/event/1277,1.0,1612689974,69
+SecureBug CTF,https://ctftime.org/event/1263,1.0,1613386809,50
+Tenable CTF 2021,https://ctftime.org/event/1266,1.0,1613649600,1762
+Union CTF 2021,https://ctftime.org/event/1246,1.0,1613761200,466
+darkCON CTF,https://ctftime.org/event/1250,1.0,1613817000,660
+Ugra CTF Quals 2021,https://ctftime.org/event/1279,1.0,1614409200,139
+Aero CTF 2021,https://ctftime.org/event/1224,1.0,1614416400,84
+D^3CTF 2021,https://ctftime.org/event/1295,1.0,1614945600,289
+HTB University CTF 2021 Finals,https://ctftime.org/event/1300,1.0,1614949200,18
+Winja CTF,https://ctftime.org/event/1293,1.0,1614988800,112
+zer0pts CTF 2021,https://ctftime.org/event/1256,1.0,1614988800,949
+BSidesSF 2021 CTF,https://ctftime.org/event/1299,1.0,1615060800,239
+White-Hats Break the Syntax CTF,https://ctftime.org/event/1303,1.0,1615561200,160
+DaVinciCTF 2021,https://ctftime.org/event/1296,1.0,1615564800,417
+NahamCon CTF 2021,https://ctftime.org/event/1281,1.0,1615579200,3409
+UTCTF 2021,https://ctftime.org/event/1177,1.0,1615593600,697
+vishwaCTF 2021,https://ctftime.org/event/1286,1.0,1615629600,400
+Codefest CTF 2020,https://ctftime.org/event/1305,1.0,1616157000,296
+BlueHens CTF 2021,https://ctftime.org/event/1298,1.0,1616176800,324
+LINE CTF 2021,https://ctftime.org/event/1269,1.0,1616198400,680
+Securinets CTF Quals 2021,https://ctftime.org/event/1308,1.0,1616259600,268
+SPRUSH CTF Quals 2021,https://ctftime.org/event/1239,1.0,1616310000,31
+UMassCTF 2021,https://ctftime.org/event/1282,1.0,1616796000,660
+CS166 x FSAB CTF 2021,https://ctftime.org/event/1311,1.0,1616803200,49
+VolgaCTF 2021 Qualifier,https://ctftime.org/event/1229,1.0,1616853600,231
+FooBar CTF 2021,https://ctftime.org/event/1322,1.0,1617215400,403
+X-MAS GTF 2021,https://ctftime.org/event/1323,1.0,1617235200,75
+ångstromCTF 2021,https://ctftime.org/event/1265,1.0,1617408000,1243
+b01lers CTF,https://ctftime.org/event/1259,1.0,1617487200,297
+Pragyan CTF 2021,https://ctftime.org/event/1330,1.0,1617840000,101
+BSides Canberra 2021 CTF,https://ctftime.org/event/1314,1.0,1617926400,343
+RITSEC CTF 2021,https://ctftime.org/event/1309,1.0,1617984000,720
+Midnight Sun CTF 2021 Quals,https://ctftime.org/event/1139,1.0,1617987600,349
+HackPack CTF 2021,https://ctftime.org/event/1307,1.0,1618585200,477
+Incognito 2.0,https://ctftime.org/event/1321,1.0,1618597800,49
+UMDCTF 2021,https://ctftime.org/event/1288,1.0,1618606800,484
+PlaidCTF 2021,https://ctftime.org/event/1199,1.0,1618606800,530
+Great Lakes Security Conference CTF,https://ctftime.org/event/1341,1.0,1618610400,56
+Bambi CTF #5,https://ctftime.org/event/1253,1.0,1618653600,61
+Cyber Apocalypse 2021,https://ctftime.org/event/1304,1.0,1618833600,2705
+Securebug.se CTF Odin 2021,https://ctftime.org/event/1324,1.0,1618927200,54
+S4CTF 2021,https://ctftime.org/event/1329,1.0,1619112600,309
+TAMUctf 2021,https://ctftime.org/event/1320,1.0,1619132400,344
+HeroCTF v3,https://ctftime.org/event/1284,1.0,1619208000,645
+WPICTF 2021,https://ctftime.org/event/1208,1.0,1619215200,244
+DEF CON CTF Qualifier 2021,https://ctftime.org/event/1254,1.0,1619827200,433
+DawgCTF 2021,https://ctftime.org/event/1319,1.0,1620424800,595
+San Diego CTF 2021,https://ctftime.org/event/1255,1.0,1620432000,292
+PwnTillDawn Online Battlefield - Goodwill Edition 2021,https://ctftime.org/event/1336,1.0,1620450000,8
+saarCTF 2021,https://ctftime.org/event/1252,1.0,1620478800,77
+DCTF 2021,https://ctftime.org/event/1361,1.0,1621004400,1084
+m0leCon CTF 2021 Teaser,https://ctftime.org/event/1325,1.0,1621011600,281
+FarEastCTF - 2021,https://ctftime.org/event/1343,1.0,1621074600,17
+3kCTF-2021,https://ctftime.org/event/1317,1.0,1621076400,232
+OMH 2021 CTF,https://ctftime.org/event/1363,1.0,1621076400,164
+NorzhCTF 2021,https://ctftime.org/event/1301,1.0,1621620010,105
+NorthSec 2021,https://ctftime.org/event/1368,1.0,1621639800,79
+Securinets CTF Finals 2021,https://ctftime.org/event/1374,1.0,1621677600,7
+Pwn2Win CTF 2021,https://ctftime.org/event/1186,1.0,1622219820,719
+ICHSA CTF 2021,https://ctftime.org/event/1359,1.0,1622484000,80
+wtfctf,https://ctftime.org/event/1373,1.0,1622678400,351
+Zh3r0 CTF V2,https://ctftime.org/event/1285,1.0,1622802600,509
+FreedomCTF Spring 2021,https://ctftime.org/event/1375,1.0,1622807940,234
+S.H.E.L.L. CTF,https://ctftime.org/event/1362,1.0,1622874600,532
+BCACTF 2.0,https://ctftime.org/event/1369,1.0,1623369600,837
+Circle City Con CTF 2021,https://ctftime.org/event/1350,1.0,1623427200,291
+THC CTF 2021,https://ctftime.org/event/1381,1.0,1623481200,374
+FAUST CTF 2021,https://ctftime.org/event/1292,1.0,1623502800,77
+HSCTF 8,https://ctftime.org/event/1264,1.0,1623672000,1162
+CTF InterIUT 2021,https://ctftime.org/event/1337,1.0,1624046400,41
+WeCTF 2021,https://ctftime.org/event/1231,1.0,1624122000,574
+CTFZone 2021,https://ctftime.org/event/1328,1.0,1624701600,131
+Hack-A-Sat 2 Qualifiers,https://ctftime.org/event/1365,1.0,1624716000,697
+CyberThreatForce CTF | 2021,https://ctftime.org/event/1380,1.0,1625263200,197
+0CTF/TCTF 2021 Quals	,https://ctftime.org/event/1356,1.0,1625277600,464
+redpwnCTF 2021,https://ctftime.org/event/1327,1.0,1625857200,1416
+ENOWARS 5,https://ctftime.org/event/1340,1.0,1625918400,54
+TyphoonCon CTF 2021,https://ctftime.org/event/1390,1.0,1626091200,88
+Lexington Informatics Tournament CTF 2021,https://ctftime.org/event/1398,1.0,1626433200,475
+Google Capture The Flag 2021,https://ctftime.org/event/1318,1.0,1626480000,379
+CyberSci Nationals 2021,https://ctftime.org/event/1394,1.0,1626523200,7
+Securebug.se CTF Loki 2021,https://ctftime.org/event/1392,1.0,1626703200,85
+IJCTF 2021,https://ctftime.org/event/1382,1.0,1627111800,132
+CyBRICS CTF 2021,https://ctftime.org/event/1306,1.0,1627120800,480
